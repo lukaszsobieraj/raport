@@ -1,0 +1,7 @@
+raport_homepage:
+    path:     /raport
+    defaults: { _controller: RaportBundle:Default:index }
+
+hello_homepage:
+    path:     /hello
+    defaults: { _controller: RaportBundle:Default:hello }
